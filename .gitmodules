@@ -1,0 +1,6 @@
+[submodule "repos/repos/cakechat"]
+	path = repos/repos/cakechat
+	url = git@github.com:blimp-hq/cakechat.git
+[submodule "repos/cakechat"]
+	path = repos/cakechat
+	url = git@github.com:blimp-hq/cakechat.git
